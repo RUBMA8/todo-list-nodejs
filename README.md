@@ -53,7 +53,7 @@ liste_tache_db/
 
 1. Cloner le dépôt :
 ```bash
-git clone [url-du-depot]
+git clone https://github.com/RUBMA8/todo-list-nodejs/
 cd liste_tache_db
 ```
 
@@ -156,4 +156,4 @@ UNLICENSED
 
 ---
 
-Projet développé dans le cadre du cours au Collège La Cité
+Projet développé dans le cadre d'un cours.
